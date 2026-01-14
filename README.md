@@ -12,7 +12,11 @@ Just make it executable and run it with the terminal using "sudo".
   chmod +x ICanRunMC.sh
   sudo ./ICanRunMC.sh
 ```
-    
+```Python
+  pip install -r requirements.txt
+  sudo python3 ICanRunMC.py
+```
+
 ## Features
 
 - Cross platform/usage in any distro with MESA.
@@ -37,4 +41,4 @@ You can check MESA Environment Variables.
 ## Authors
 
 - [MESA3D Team](https://www.mesa3d.org/developers/)
-
+- https://github.com/Negal75https://github.com/Negal75
