@@ -12,10 +12,16 @@ Just make it executable and run it with the terminal using "sudo".
   chmod +x ICanRunMC.sh
   sudo ./ICanRunMC.sh
 ```
+or
+
 ```Python
   pip install -r requirements.txt
   sudo python3 ICanRunMC.py
 ```
+with the GUI it's very easy:
+
+<img width="473" height="501" alt="image" src="https://github.com/user-attachments/assets/0fc7940e-f00d-4ac0-8cc7-7e1826bc7508" />
+
 
 ## Features
 
